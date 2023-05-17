@@ -11,7 +11,7 @@ The script utilizes the `pyperclip` library to monitor changes in the clipboard.
 To use ClipboredLinkParser, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies 
 3. Run the script by executing `python clipbored_link_parser.py` in your terminal.
 4. Enter a file name when prompted to create an HTML file.
 5. Start copying text containing links, and ClipboredLinkParser will automatically parse and save them as HTML anchor tags.
